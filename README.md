@@ -28,7 +28,7 @@ A simple and elegant Todo App built & deployed using **React**, **TypeScript**, 
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/Kingestif/gdg_study_session.git](https://github.com/Kingestif/kuraz-todo.git)
+https://github.com/Kingestif/kuraz-todo.git
 ```
 
 ### 2. Install Dependencies
