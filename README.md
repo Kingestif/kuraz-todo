@@ -1,6 +1,6 @@
 # React + TypeScript Todo App
 
-A simple and elegant Todo App built using **React**, **TypeScript**, and **Vite**. This app allows users to manage daily tasks with basic functionality like adding, completing, and deleting tasks — all based on a hardcoded task list.
+A simple and elegant Todo App built & deployed using **React**, **TypeScript**, and **Vite**. This app allows users to manage daily tasks with basic functionality like adding, completing, and deleting tasks — all based on a hardcoded task list.
 
 ---
 
@@ -42,7 +42,10 @@ npm install
 ```bash
 npm run dev
 ```
+## 🌐 Live Demo
 
+Check out the deployed app here:  
+👉 [https://kuraz-todo.vercel.app](https://kuraz-todo.vercel.app)
 
 ### Visuals
 ![alt text](src/assets/image2.png)
